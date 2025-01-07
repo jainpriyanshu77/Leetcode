@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
+| [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/jainpriyanshu77/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainpriyanshu77/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
+| [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Dynamic Programming
 |  |
@@ -50,4 +52,8 @@
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
