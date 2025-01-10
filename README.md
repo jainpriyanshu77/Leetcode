@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainpriyanshu77/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0605-can-place-flowers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
