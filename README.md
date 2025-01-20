@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainpriyanshu77/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jainpriyanshu77/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
@@ -55,16 +56,19 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -83,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
@@ -108,4 +113,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
