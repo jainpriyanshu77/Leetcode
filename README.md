@@ -77,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
