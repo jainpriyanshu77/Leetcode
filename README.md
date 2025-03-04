@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/jainpriyanshu77/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/jainpriyanshu77/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jainpriyanshu77/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
