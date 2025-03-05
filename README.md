@@ -79,6 +79,7 @@
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/jainpriyanshu77/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
 | ------- |
