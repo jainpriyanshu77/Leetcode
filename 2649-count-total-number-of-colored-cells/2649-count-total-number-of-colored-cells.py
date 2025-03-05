@@ -4,8 +4,4 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        k, Sum  = 0, 1
-        while k < n:
-            Sum += (4*k)
-            k+=1
-        return Sum
+        return 1 + 4 * n * (n-1)// 2
