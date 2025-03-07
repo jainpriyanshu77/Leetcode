@@ -81,6 +81,7 @@
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jainpriyanshu77/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jainpriyanshu77/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
@@ -146,4 +147,8 @@
 | [1258-article-views-i](https://github.com/jainpriyanshu77/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jainpriyanshu77/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jainpriyanshu77/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/jainpriyanshu77/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
