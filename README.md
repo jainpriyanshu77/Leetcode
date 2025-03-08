@@ -25,6 +25,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jainpriyanshu77/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/jainpriyanshu77/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jainpriyanshu77/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
