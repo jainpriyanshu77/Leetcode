@@ -61,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jainpriyanshu77/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -123,10 +124,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jainpriyanshu77/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jainpriyanshu77/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jainpriyanshu77/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jainpriyanshu77/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jainpriyanshu77/Leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jainpriyanshu77/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
