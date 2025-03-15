@@ -20,6 +20,7 @@
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0812-rotate-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/jainpriyanshu77/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -103,6 +104,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Greedy
 |  |
