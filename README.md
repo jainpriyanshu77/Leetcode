@@ -53,6 +53,7 @@
 | [0792-binary-search](https://github.com/jainpriyanshu77/Leetcode/tree/master/0792-binary-search) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jainpriyanshu77/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -85,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jainpriyanshu77/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -125,6 +127,7 @@
 | [0088-merge-sorted-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
