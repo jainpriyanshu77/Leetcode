@@ -191,4 +191,12 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jainpriyanshu77/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
