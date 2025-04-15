@@ -178,6 +178,7 @@
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/jainpriyanshu77/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/jainpriyanshu77/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/jainpriyanshu77/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/jainpriyanshu77/Leetcode/tree/master/0620-not-boring-movies) |
