@@ -60,6 +60,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jainpriyanshu77/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/jainpriyanshu77/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainpriyanshu77/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jainpriyanshu77/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/jainpriyanshu77/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainpriyanshu77/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
