@@ -190,6 +190,7 @@
 | [1258-article-views-i](https://github.com/jainpriyanshu77/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jainpriyanshu77/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jainpriyanshu77/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/jainpriyanshu77/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Number Theory
 |  |
 | ------- |
