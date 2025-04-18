@@ -100,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
