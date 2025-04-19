@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/jainpriyanshu77/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/jainpriyanshu77/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jainpriyanshu77/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jainpriyanshu77/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
@@ -215,12 +217,14 @@
 | [0002-add-two-numbers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jainpriyanshu77/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jainpriyanshu77/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
