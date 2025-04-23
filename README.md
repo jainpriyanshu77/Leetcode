@@ -70,6 +70,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainpriyanshu77/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jainpriyanshu77/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jainpriyanshu77/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jainpriyanshu77/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jainpriyanshu77/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Linked List
 |  |
 | ------- |
