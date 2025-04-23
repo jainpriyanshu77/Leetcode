@@ -24,6 +24,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jainpriyanshu77/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jainpriyanshu77/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jainpriyanshu77/Leetcode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainpriyanshu77/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainpriyanshu77/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -229,5 +231,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainpriyanshu77/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jainpriyanshu77/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
