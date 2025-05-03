@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jainpriyanshu77/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/jainpriyanshu77/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/jainpriyanshu77/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jainpriyanshu77/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jainpriyanshu77/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/jainpriyanshu77/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/jainpriyanshu77/Leetcode/tree/master/0053-maximum-subarray) |
