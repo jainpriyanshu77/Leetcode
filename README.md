@@ -68,6 +68,7 @@
 | [0682-baseball-game](https://github.com/jainpriyanshu77/Leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jainpriyanshu77/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/jainpriyanshu77/Leetcode/tree/master/0792-binary-search) |
+| [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jainpriyanshu77/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -110,6 +111,7 @@
 | [0205-isomorphic-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jainpriyanshu77/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -122,6 +124,7 @@
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jainpriyanshu77/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -157,6 +160,7 @@
 | [0179-largest-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
@@ -252,4 +256,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jainpriyanshu77/Leetcode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
