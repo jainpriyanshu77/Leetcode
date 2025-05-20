@@ -35,6 +35,7 @@
 | [0205-isomorphic-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jainpriyanshu77/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -112,6 +113,7 @@
 | [0205-isomorphic-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
