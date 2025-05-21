@@ -128,6 +128,7 @@
 | [0013-roman-to-integer](https://github.com/jainpriyanshu77/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/0326-power-of-three) |
 | [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -251,6 +252,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jainpriyanshu77/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jainpriyanshu77/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/jainpriyanshu77/Leetcode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
 | ------- |
