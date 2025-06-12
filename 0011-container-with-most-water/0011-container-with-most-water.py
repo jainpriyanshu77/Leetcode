@@ -4,27 +4,16 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        left = 0            # Left pointer starting from the leftmost edge
-        right = len(height) - 1  # Right pointer starting from the rightmost edge
-        maxWater = 0        # Initialize the maximum water capacity
-        
+        maxarea = 0
+        left = 0
+        right = len(height) - 1
+
         while left < right:
-            # Calculate the width of the container
             width = right - left
-            
-            # Calculate the height of the container (the minimum height between the two lines)
-            h = min(height[left], height[right])
-            
-            # Calculate the water capacity of the current container
-            water = width * h
-            
-            # Update the maximum water capacity if the current container holds more water
-            maxWater = max(maxWater, water)
-            
-            # Move the pointers towards each other
-            if height[left] < height[right]:
+            maxarea = max(maxarea, min(height[left], height[right]) * width)
+            if height[left] <= height[right]:
                 left += 1
             else:
                 right -= 1
-        
-        return maxWater
+
+        return maxarea
