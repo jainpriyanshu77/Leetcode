@@ -37,6 +37,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jainpriyanshu77/Leetcode/tree/master/0392-is-subsequence) |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainpriyanshu77/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -115,6 +116,7 @@
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jainpriyanshu77/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
 | [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -157,6 +159,7 @@
 | [0011-container-with-most-water](https://github.com/jainpriyanshu77/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/jainpriyanshu77/Leetcode/tree/master/0605-can-place-flowers) |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0179-largest-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/jainpriyanshu77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jainpriyanshu77/Leetcode/tree/master/0268-missing-number) |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
 | [0976-minimum-area-rectangle](https://github.com/jainpriyanshu77/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainpriyanshu77/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jainpriyanshu77/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -274,4 +278,9 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/jainpriyanshu77/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
